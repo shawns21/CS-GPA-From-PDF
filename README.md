@@ -11,15 +11,10 @@ The application allows CS students at the specific colleges to respond to a prom
 
 We built our application using strictly python to handle all the importing of transcripts, python built in OCR for extracting the pdf transcript and the calculation of the major GPA.    
 
-## _Challenges We ran Into_
+## _Installation_
 
-Our biggest challenge was to get all the different major courses for CS students for all of the four colleges.  
+pip install requirements.txt
 
-## _Accomplishments that We are Proud Of_
+## _How to run_
 
-We are proud that the application was able to successfully help CS students at the four CUNY colleges to effortlessly upload and calculate their Major GPA with a simple but efficient GUI.  
-
-
-## _What's next for CS-GPA-From-PDF_
-
-The application will be expanded to calculate all CS students' Major GPA at all CUNY schools. 
+python3 main.py
